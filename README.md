@@ -8,9 +8,6 @@
 
 ### 주차장 상황 및 주차 가능 여부 정보 제공
                  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/19771164/148516059-91da5206-12af-45cb-9737-20854d1df2bb.gif" alt="Sublime's custom image"/>
-</p>
 
 
 
