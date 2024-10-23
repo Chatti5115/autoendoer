@@ -2,9 +2,6 @@
   <img src="https://user-images.githubusercontent.com/19771164/148502115-a99d69d5-c5ae-4d3b-be4c-88e2a8014fe9.png" alt="Sublime's custom image"/>
 </p>
 
-
-# Team DI 주제
-
 ### “아니, 쏘카존에 반납하려니까 만석이라 다른 곳에 주차했더니 패널티라네요.”
 
 ![뉴스](https://user-images.githubusercontent.com/19771164/148502420-82ad41be-a154-4dd5-9c88-707636e15700.png)(http://www.newsworker.co.kr/news/articleView.html?idxno=113012)
